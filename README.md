@@ -1,4 +1,3 @@
-# Event-Scheduling
 This project is build with React.
 To start the project, on your terminal run npm install, or yarn install.
 Then run npm start or yarn start.
